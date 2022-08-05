@@ -1,1 +1,1 @@
-Este es un repo de prueba
+Esto es un repositorio de prueba
